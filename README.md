@@ -8,8 +8,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 - :newspaper: [Papers](#papers)
 - :zap: [Companies](#companies)
 - :zap: [Competitions](#competitions)
-- :people: [Content Creators](#contentc)
-- 
+- :zap: [Content Creators](#contentc)
 
 ### Datasets
   * [TUNIZI: Tunisian Sentiment Analysis Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
@@ -54,5 +53,6 @@ Top contributors:
 
 
 ## Contibuting
-To contribute, open a pull request and follow the same formatting as this readme.md
+You can contribute through *checking for dead links*, *adding links*, *making new content*, *better format the readme* or *sharing this repo*. This list is not exhaustive, looking forward to your creative suggestions. 
+You can check the issues or propose something yourself. To contribute, open a pull request and follow the same formatting as this readme.md
 We accept anything where Tunisans contributed, either fully or partially.
