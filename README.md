@@ -1,4 +1,4 @@
-# Awesome Tunisian DATAI
+# Awesome Tunisian DATA & AI
 A curated list of awesome Tunisian-made open source datasets, papers, projects and content in The AI, ML, DS sphere.
 
 ## Contents
