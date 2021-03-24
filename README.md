@@ -1,5 +1,5 @@
-# awesome-healthcare-ai [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome open source healthcare tools, machine learning algorithms, datasets and research papers.
+# awesome-tunisian-datai
+A curated list of awesome Tunisian-made open source datasets, papers, projects and content.
 
 
 ## Contents
