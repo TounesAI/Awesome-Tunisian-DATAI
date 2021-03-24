@@ -1,14 +1,58 @@
-# awesome-tunisian-datai
-A curated list of awesome Tunisian-made open source datasets, papers, projects and content.
-
+# Awesome Tunisian DATAI
+A curated list of awesome Tunisian-made open source datasets, papers, projects and content in The AI, ML, DS sphere.
 
 ## Contents
 
-- :book: [Datasets](#medical-specialties)
-- :cyclone: [Projects](#medical-tasks)
-- :newspaper: [Papers](#medical-privacy)
-- :zap: [Companies](#references)
-- :people: [Content Creators](#references)
+- :book: [Datasets](#datasets)
+- :cyclone: [Projects](#projects)
+- :newspaper: [Papers](#papers)
+- :zap: [Companies](#companies)
+- :zap: [Competitions](#competitions)
+- :people: [Content Creators](#contentc)
+- 
 
 ### Datasets
   * [TUNIZI: Tunisian Sentiment Analysis Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
+  * [T-HSAB: Tunisian Hate Speech and Abusive Dataset](https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
+  * [Tunisian Dialect Corpus for Text Classification(https://www.kaggle.com/naim99/tunisian-texts)
+
+### Projects
+### Communities & Organisations
+#### Directly
+ - [Tunisian Association of Artificial Intelligence (ATIA)]
+ - [IEEE Computational Intelligence Societties (CIS)]
+#### Indirectly
+ - [Facebook Developer Circles (DevC)]
+ - [Google Developer Student Clubs (DSC)]
+
+### Papers 
+### Companies
+#### AI-FIRST:
+
+### Competitions:
+Top contributors:
+- InstaDeeep: 6 Competitions
+- ICompass: 1 Competition
+- Expensya: 1 Competition
+
+#### 2021:
+- [social media sentiment analysis for tunisian arabizi](https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi) (Fully Tunisian)
+- [curing leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis) (Partially Tunisian)
+
+#### 2019:
+- [financial-inclusion-in-africa](https://zindi.africa/competitions/financial-inclusion-in-africa)
+- [Computer Vision for License Plate Recognition Challenge](https://zindi.africa/competitions/ai-hack-tunisia-2-computer-vision-challenge-2)
+- [Fraud Detection in Electricity and Gas Consumption Challenge](https://zindi.africa/competitions/ai-hack-tunisia-4-predictive-analytics-challenge-1)
+- [Tunisian Tax Fraud Detection Challenge](https://zindi.africa/competitions/ai-hack-tunisia-6-predictive-analytics-challenge-3
+- [Flight Delay Prediction Challenge](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2
+
+### Content Creators
+- [Ahmed Rebii](https://www.youtube.com/channel/UClgOxaBHDi6FWTyLtv9pdkA)
+- [Ahmed Besbes](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g)
+- [TunisIA](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g/videos)
+- [NeurdoData Podcasts](https://www.youtube.com/watch?v=YBnxAPuOZ14&list=PLjAky_zZAA0TkaCN1-ybbeH6CWOaQ7flx)
+
+
+## Contibuting
+To contribute, open a pull request and follow the same formatting as this readme.md
+We accept anything where Tunisans contributed, either fully or partially.
