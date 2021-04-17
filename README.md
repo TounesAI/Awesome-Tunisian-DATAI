@@ -29,7 +29,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
  - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
 
 ### Papers
-### Companies: 
+### Companies:
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
@@ -41,6 +41,7 @@ Top contributors:
 - Expensya: 1 Competition
 
 #### 2021:
+- [IEEE Hackathon on Zindi with dataset](https://zindi.africa/hackathons/cryptocurrency-closing-price-prediction-challenge/data)
 - [social media sentiment analysis for tunisian arabizi](https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi) (Fully Tunisian)
 - [curing leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis) (Partially Tunisian)
 
