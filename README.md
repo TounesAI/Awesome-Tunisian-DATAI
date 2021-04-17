@@ -29,6 +29,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
  - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
 
 ### Papers
+[TunBert]{https://www.instadeep.com/2021/03/instadeep-and-icompass-announce-tunbert-the-first-ai-based-tunisian-dialect-system/}
 ### Companies:
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
