@@ -19,18 +19,19 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
 
 ### Communities & Organisations:
+[TUNSA]{https://www.facebook.com/tunsatn}
 #### Directly:
- - [Tunisian Association of Artificial Intelligence (ATIA)](http://atia.org.tn/)
- - [IEEE Computational Intelligence Societties (CIS)](https://site.ieee.org/tunisia-cis/)
-
-#### Indirectly:
- - [Facebook Developer Circles (DevC)](https://www.facebook.com/groups/DevCTunis/)
- - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
+ - [Tunisian Association of Artificial Intelligence (ATIA)]
+ - [IEEE Computational Intelligence Societies (CIS)]
+#### Indirectly
+ - [Facebook Developer Circles (DevC)]
+ - [Google Developer Student Clubs (DSC)]
 
 ### Papers
 ### Companies: 
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
+
 #### AI-FIRST:
 
 ### Competitions
