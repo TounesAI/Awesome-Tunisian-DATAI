@@ -20,11 +20,12 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 
 ### Communities & Organisations:
 #### Directly:
- - [Tunisian Association of Artificial Intelligence (ATIA)]
- - [IEEE Computational Intelligence Societies (CIS)]
-#### Indirectly
- - [Facebook Developer Circles (DevC)]
- - [Google Developer Student Clubs (DSC)]
+ - [Tunisian Association of Artificial Intelligence (ATIA)](http://atia.org.tn/)
+ - [IEEE Computational Intelligence Societties (CIS)](https://site.ieee.org/tunisia-cis/)
+
+#### Indirectly:
+ - [Facebook Developer Circles (DevC)](https://www.facebook.com/groups/DevCTunis/)
+ - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
 
 ### Papers
 ### Companies: 
