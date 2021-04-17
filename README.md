@@ -33,13 +33,13 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 #### AI-FIRST:
 
 ### Competitions
-- [IEEE Hackathon on Zindi with dataset](https://zindi.africa/hackathons/cryptocurrency-closing-price-prediction-challenge/data)
 Top contributors:
 - InstaDeeep: 6 Competitions
 - ICompass: 1 Competition
 - Expensya: 1 Competition
 
 #### 2021:
+- [IEEE Hackathon on Zindi with dataset](https://zindi.africa/hackathons/cryptocurrency-closing-price-prediction-challenge/data)
 - [social media sentiment analysis for tunisian arabizi](https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi) (Fully Tunisian)
 - [curing leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis) (Partially Tunisian)
 
