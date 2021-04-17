@@ -24,13 +24,13 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 #### Directly:
  - [Tunisian Association of Artificial Intelligence (ATIA)](http://atia.org.tn/)
  - [IEEE Computational Intelligence Societties (CIS)](https://site.ieee.org/tunisia-cis/)
-
 #### Indirectly:
  - [Facebook Developer Circles (DevC)](https://www.facebook.com/groups/DevCTunis/)
  - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
 
 ### Papers:
 ### Companies:
+* [Unfrauded](http://www.unfrauded.com/)
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
 
