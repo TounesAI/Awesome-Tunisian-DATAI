@@ -16,22 +16,25 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
   * [Tunisian Dialect Corpus for Text Classification](https://www.kaggle.com/naim99/tunisian-texts)
   * [covid-19-tunisia-data](https://github.com/ayarii/covid-19-tunisia-data)
 
-### Projects
+### Projects:
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
 
-### Communities & Organisations
-#### Directly
- - [Tunisian Association of Artificial Intelligence (ATIA)]
- - [IEEE Computational Intelligence Societties (CIS)]
-#### Indirectly
- - [Facebook Developer Circles (DevC)]
- - [Google Developer Student Clubs (DSC)]
+### Communities & Organisations:
+#### Directly:
+ - [Tunisian Association of Artificial Intelligence (ATIA)](http://atia.org.tn/)
+ - [IEEE Computational Intelligence Societties (CIS)](https://site.ieee.org/tunisia-cis/)
 
-### Papers 
-### Companies
+#### Indirectly:
+ - [Facebook Developer Circles (DevC)](https://www.facebook.com/groups/DevCTunis/)
+ - [Google Developer Student Clubs (DSC)](https://www.facebook.com/DSC.TUNISIA/)
+
+### Papers
+### Companies: 
+* [iCompass](https://www.icompass.tn/)
+* [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
 
-### Competitions:
+### Competitions
 Top contributors:
 - InstaDeeep: 6 Competitions
 - ICompass: 1 Competition
