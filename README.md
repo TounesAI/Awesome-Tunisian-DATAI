@@ -1,7 +1,7 @@
 # Awesome Tunisian DATA & AI
 A curated list of awesome Tunisian-made open source datasets, papers, projects and content in The AI, ML, DS sphere.
 
-## Contents
+## Contents:
 
 - :book: [Datasets](#datasets)
 - :cyclone: [Projects](#projects)
@@ -10,10 +10,10 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 - :zap: [Competitions](#competitions)
 - :zap: [Content Creators](#contentc)
 
-### Datasets
-  * [TUNIZI: Tunisian Sentiment Analysis Dataset] (https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
-  * [T-HSAB: Tunisian Hate Speech and Abusive Dataset] (https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
-  * [Tunisian Dialect Corpus for Text Classification] (https://www.kaggle.com/naim99/tunisian-texts)
+### Datasets:
+  * [TUNIZI:Tunisian Sentiment Analysis Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
+  * [T-HSAB:Tunisian Hate Speech and Abusive Dataset](https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
+  * [Tunisian Dialect Corpus for Text Classification](https://www.kaggle.com/naim99/tunisian-texts)
 
 ### Projects:
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
@@ -22,17 +22,17 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 #### Directly:
  - [Tunisian Association of Artificial Intelligence (ATIA)]
  - [IEEE Computational Intelligence Societies (CIS)]
-#### Indirectly
+#### Indirectly:
  - [Facebook Developer Circles (DevC)]
  - [Google Developer Student Clubs (DSC)]
 
-### Papers
+### Papers:
 ### Companies:
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
 
-### Competitions
+### Competitions:
 Top contributors:
 - InstaDeeep: 6 Competitions
 - ICompass: 1 Competition
@@ -50,14 +50,14 @@ Top contributors:
 - [Tunisian Tax Fraud Detection Challenge](https://zindi.africa/competitions/ai-hack-tunisia-6-predictive-analytics-challenge-3)
 - [Flight Delay Prediction Challenge](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2)
 
-### Content Creators
+### Content Creators:
 - [Ahmed Rebii](https://www.youtube.com/channel/UClgOxaBHDi6FWTyLtv9pdkA)
 - [Ahmed Besbes](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g)
 - [TunisIA](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g/videos)
 - [NeurdoData Podcasts](https://www.youtube.com/watch?v=YBnxAPuOZ14&list=PLjAky_zZAA0TkaCN1-ybbeH6CWOaQ7flx)
 
 
-## Contibuting
+## Contibuting:
 You can contribute through *checking for dead links*, *adding links*, *making new content*, *better format the readme* or *sharing this repo*. This list is not exhaustive, looking forward to your creative suggestions. 
 You can check the issues or propose something yourself. To contribute, open a pull request and follow the same formatting as this readme.md
 We accept anything where Tunisans contributed, either fully or partially.
