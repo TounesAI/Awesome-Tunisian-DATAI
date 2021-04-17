@@ -11,9 +11,10 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 - :zap: [Content Creators](#contentc)
 
 ### Datasets
-  * [TUNIZI: Tunisian Sentiment Analysis Dataset] (https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
-  * [T-HSAB: Tunisian Hate Speech and Abusive Dataset] (https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
-  * [Tunisian Dialect Corpus for Text Classification] (https://www.kaggle.com/naim99/tunisian-texts)
+  * [TUNIZI: Tunisian Sentiment Analysis Dataset](https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset)
+  * [T-HSAB: Tunisian Hate Speech and Abusive Dataset](https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
+  * [Tunisian Dialect Corpus for Text Classification](https://www.kaggle.com/naim99/tunisian-texts)
+  * [covid-19-tunisia-data](https://github.com/ayarii/covid-19-tunisia-data)
 
 ### Projects:
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
