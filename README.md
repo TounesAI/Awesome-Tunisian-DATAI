@@ -28,11 +28,13 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 
 ### Papers
 ### Companies: 
+$ [ATIA](http://www.atia.rnu.tn/)
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
 
 ### Competitions
+- [IEEE Hackathon on Zindi with dataset](https://zindi.africa/hackathons/cryptocurrency-closing-price-prediction-challenge/data)
 Top contributors:
 - InstaDeeep: 6 Competitions
 - ICompass: 1 Competition
