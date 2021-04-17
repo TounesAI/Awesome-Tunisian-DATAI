@@ -19,6 +19,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 
 ### Projects:
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
+* [TunBert](https://www.instadeep.com/2021/03/instadeep-and-icompass-announce-tunbert-the-first-ai-based-tunisian-dialect-system/)
 
 ### Communities & Organisations:
 #### Directly:
