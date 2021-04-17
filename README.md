@@ -15,22 +15,24 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
   * [T-HSAB: Tunisian Hate Speech and Abusive Dataset](https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset)
   * [Tunisian Dialect Corpus for Text Classification](https://www.kaggle.com/naim99/tunisian-texts)
 
-### Projects
+### Projects:
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
 
-### Communities & Organisations
-#### Directly
+### Communities & Organisations:
+#### Directly:
  - [Tunisian Association of Artificial Intelligence (ATIA)]
  - [IEEE Computational Intelligence Societties (CIS)]
 #### Indirectly
  - [Facebook Developer Circles (DevC)]
  - [Google Developer Student Clubs (DSC)]
 
-### Papers 
-### Companies
+### Papers
+### Companies: 
+* [iCompass](https://www.icompass.tn/)
+* [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
 
-### Competitions:
+### Competitions
 Top contributors:
 - InstaDeeep: 6 Competitions
 - ICompass: 1 Competition
