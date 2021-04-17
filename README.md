@@ -16,6 +16,8 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
   * [Tunisian Dialect Corpus for Text Classification(https://www.kaggle.com/naim99/tunisian-texts)
 
 ### Projects
+* [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
+
 ### Communities & Organisations
 #### Directly
  - [Tunisian Association of Artificial Intelligence (ATIA)]
