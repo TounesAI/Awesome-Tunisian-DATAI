@@ -27,8 +27,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
  - [Google Developer Student Clubs (DSC)]
 
 ### Papers
-### Companies: 
-$ [ATIA](http://www.atia.rnu.tn/)
+### Companies:
 * [iCompass](https://www.icompass.tn/)
 * [InstaDeep](https://www.instadeep.com/)
 #### AI-FIRST:
