@@ -47,8 +47,8 @@ Top contributors:
 - [financial-inclusion-in-africa](https://zindi.africa/competitions/financial-inclusion-in-africa)
 - [Computer Vision for License Plate Recognition Challenge](https://zindi.africa/competitions/ai-hack-tunisia-2-computer-vision-challenge-2)
 - [Fraud Detection in Electricity and Gas Consumption Challenge](https://zindi.africa/competitions/ai-hack-tunisia-4-predictive-analytics-challenge-1)
-- [Tunisian Tax Fraud Detection Challenge](https://zindi.africa/competitions/ai-hack-tunisia-6-predictive-analytics-challenge-3
-- [Flight Delay Prediction Challenge](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2
+- [Tunisian Tax Fraud Detection Challenge](https://zindi.africa/competitions/ai-hack-tunisia-6-predictive-analytics-challenge-3)
+- [Flight Delay Prediction Challenge](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2)
 
 ### Content Creators
 - [Ahmed Rebii](https://www.youtube.com/channel/UClgOxaBHDi6FWTyLtv9pdkA)
